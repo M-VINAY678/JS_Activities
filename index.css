@@ -1,0 +1,11 @@
+ol li a {
+    color: white;
+    display: inline-block;
+    background-color: rgb(47, 37, 47);
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+ol li a:hover {
+    background-color: green;
+}
